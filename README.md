@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 My name is Dongyu Xu. Currently I am an undergraduate student from Beijing University of Posts and Telecommunications(BUPT), majoring communication engineering (I don't like this subject and want to change my research to Artificial Intellengence >-<)
+- 🌱 I want to be a person who can use his knowledge to make the world better (that isn't an easy job, I know
+- 💬 I also want to get rid of material pursuit before I go to my thirty years old (it may be a little Chinese-English, hope you could know what I mean QvQ
+- ⚡ The biggest wish of this year is I could get a chance to start my graduate life in National Laboratory of Pattern Recognition in University of Chinese Academy of Science ( My dream institution
+- 📫 I'm easy-going and friendly, so feel free to hit me up ~ ( Make friend all over the world is very romantic, isn't it? 
 
 <!--
 **DongyuXu77/DongyuXu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
